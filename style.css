@@ -1,0 +1,51 @@
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    display: block;
+    -webkit-user-select: none;
+    margin: auto;
+    row:"5";
+    
+}
+
+td, th {
+   border: 2px solid rgb(139, 138, 138);
+    padding: 20px;
+    font-size: 20px;
+    width: 160px;
+}
+
+img {
+    width: 50px;
+    height: 25px;
+    overflow-clip-margin: content-box;
+    margin-right: 15px;
+}
+
+th {
+    font-weight: bolder;
+    background-color: rgb(219, 208, 208);
+    font-size: 30px;
+}
+
+td {
+    font-weight: bold;
+}
+
+.td {
+    font-style: italic;
+    background-color: lightblue;
+    color: aqua;
+}
+
+#w {
+    color: aqua;
+}
+.td{
+    color: rgb(49, 49, 128);
+    font-style: italic;
+}
+#w{
+    color: rgb(49, 49, 128);
+    
+}
